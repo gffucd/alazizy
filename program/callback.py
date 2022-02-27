@@ -134,7 +134,7 @@ async def cbadmin(_, query: CallbackQuery):
 » /userbotleave لطرد حساب المساعد 
  » /ping - إظهار حالة البوت بينغ
  » /alive  إظهار معلومات البوت  (في المجموعة)
-  ⚡ ادارة سورس العزايزي @php_7
+  ⚡  الاستفسار راسل مطور السورس @V_O_O
 __""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 رجوع", callback_data="cbstart")]]
